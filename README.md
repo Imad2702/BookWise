@@ -58,7 +58,7 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/imaduddin27/BookWise.git
+   git clone https://github.com/imad2702/BookWise.git
    cd BookWise
 
 2. Install the required dependencies:
